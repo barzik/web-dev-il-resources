@@ -5,8 +5,8 @@ Have some interesting source? Please create a pull request!
 
 ## Hebrew sources
 
-- [Hebrew sites and blogs about developemnt]('./docs/Hebrew/blogs.md).
+- [Hebrew sites and blogs about developemnt](docs/Hebrew/blogs.md).
 
 ## English sources
 
-- [Hebrew sites and blogs about developemnt]('./docs/English/blogs.md).
+- [Hebrew sites and blogs about developemnt](docs/English/blogs.md).
