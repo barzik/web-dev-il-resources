@@ -5,9 +5,9 @@ Have some interesting source? Please create a pull request!
 
 ## Hebrew sources
 
-- [Hebrew sites and blogs about developemnt](docs/Hebrew/blogs.md).
-- [Hebrew books about developemnt](docs/Hebrew/books.md).
+- [Sites and blogs about development in Hebrew](docs/Hebrew/blogs.md).
+- [Books about development in Hebrew](docs/Hebrew/books.md).
 
 ## English sources
 
-- [Hebrew sites and blogs about developemnt](docs/English/blogs.md).
+- [Sites and blogs about development in English](docs/English/blogs.md).
