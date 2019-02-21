@@ -7,6 +7,8 @@ Have some interesting source? Please create a pull request!
 
 - [Sites and blogs about development in Hebrew](docs/Hebrew/blogs.md).
 - [Books about development in Hebrew](docs/Hebrew/books.md).
+- [Facebook groups](docs/Hebrew/facebook.md). 1000+ above
+- [Podcasts](docs/Hebrew/podcasts.md).
 
 ## English sources
 
