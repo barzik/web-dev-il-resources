@@ -13,3 +13,4 @@ Have some interesting source? Please create a pull request!
 ## English sources
 
 - [Sites and blogs about development in English](docs/English/blogs.md).
+- [Books about development in English](docs/English/Books.md).
