@@ -9,6 +9,7 @@ Have some interesting source? Please create a pull request!
 - [Books about development in Hebrew](docs/Hebrew/books.md).
 - [Facebook groups](docs/Hebrew/facebook.md). 1000+ above
 - [Podcasts](docs/Hebrew/podcasts.md).
+- [Meetups](docs/Hebrew/meetups.md).
 
 ## English sources
 
