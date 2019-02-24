@@ -22,3 +22,7 @@
 1. [The new group](https://www.facebook.com/groups/wordpress.support/) - I really like this group but it is realllllly big one.
 1. [WordPress community](https://www.facebook.com/groups/WPISRAEL/) - smaller, more intimate group.
 1. [Advanced WordPress](https://www.facebook.com/groups/wordpresspro/) - more developer oriented community
+
+## Linux
+
+0. [Linux Israel Facebook group](https://www.facebook.com/groups/linux.il) - Everything Linux
