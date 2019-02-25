@@ -9,3 +9,4 @@ Blogs and sites on web developing in Hebrew. All the blogs are being updated fre
 1. [Digital Whisper](https://www.digitalwhisper.co.il/) - Not a traditional blog, but important e-magazine on security (web and other). The basic standard.
 1. [Geektime](https://www.geektime.co.il/) - Not the traditional blog about tech, but it sure has some interesting data in dev. 
 1. [Before the restart](https://tech.b48.club) - Not the really traditional cyber blog but really a must for all people that are interested in web security. Noam Rotem is the best.
+1. [reshetech](https://reshetech.co.il/) - General web development in Hebrew.
