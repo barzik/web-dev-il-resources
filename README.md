@@ -15,3 +15,4 @@ Have some interesting source? Please create a pull request!
 
 - [Sites and blogs about development in English](docs/English/blogs.md).
 - [Books about development in English](docs/English/books.md).
+- [Telegram channels & groups](docs/English/telegram.md).
