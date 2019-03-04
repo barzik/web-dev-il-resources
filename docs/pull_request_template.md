@@ -1,4 +1,4 @@
-## The site/blog name and its address
+## The item name and its address
 
 ## Why it should belong to the list
 
