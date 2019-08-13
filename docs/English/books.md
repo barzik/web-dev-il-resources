@@ -3,6 +3,7 @@
 Books about js
 
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson - A book series on JavaScript, diving deep into the core mechanisms of the JavaScript language.
+- [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Kyle Simpson - Pragmatic, balanced FP in JavaScript.
 - [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke - This is a book about JavaScript, programming, and the wonders of the digital.
 - [Composing Software](https://leanpub.com/composingsoftware/) - Eric Elliott - All software design is composition: the act of breaking complex problems down into smaller problems and composing those solutions. Most developers have a limited understanding of compositional techniques.
 
