@@ -7,6 +7,7 @@
 1. [JavaScript Israel](https://www.facebook.com/groups/jsisrael/) - One of the best sources ever with strong community
 1. [CSS Masters Israel](https://www.facebook.com/groups/css.masters.israel/) - I really love CSS and this is a great place for idea and inspiration
 1. [React IL](https://www.facebook.com/groups/reactjsil/) - All things about react
+1. [Hodash Dev](https://www.facebook.com/groups/2238858376386426/) - Frontend, Backend, Fullstack, IOT - A developer community of Herzliya, Raanana, Kfar Saba, Hod Hasharon, Petach Tikva and surroundings based in Hod Hasharon
 
 ## Back end
 
