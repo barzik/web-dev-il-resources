@@ -12,4 +12,5 @@ Blogs and sites on web developing in Hebrew. All the blogs are being updated fre
 1. [Automation blog](http://atidcollege.co.il/category/blog) - blog about automations & tests. and yes, evvery developer must know about it, even a little bit. 
 1. [Saavy blog](https://he.savvy.co.il/blog/) - Excellent WordPress blog. 
 1. [reshetech](https://reshetech.co.il/) - General web development in Hebrew.
-1. [ai-blog](https://ai-blog.co.il/) -Artificial Intelligence Blog
+1. [ai-blog](https://ai-blog.co.il/) - Artificial Intelligence Blog
+1. [GoCode](https://gocode.co.il) - Web development learning app in Hebrew, including slides and exercises.
