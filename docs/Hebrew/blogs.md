@@ -13,3 +13,14 @@ Blogs and sites on web developing in Hebrew. All the blogs are being updated fre
 1. [Saavy blog](https://he.savvy.co.il/blog/) - Excellent WordPress blog. 
 1. [reshetech](https://reshetech.co.il/) - General web development in Hebrew.
 1. [ai-blog](https://ai-blog.co.il/) -Artificial Intelligence Blog
+1. [HaJunior](https://www.hajunior.com) - How to write your CV, not just for juniors.
+1. [Hetz Biz](https://linvirtstor.net) - Tips and information about tech
+1. [Hetz V2.0](https://benhamo.org) - The above V2.0
+1. [DockerIL](https://www.dockeril.net) - Speacking about Docker
+1. [Otomatit](https://www.tehila.co.il) - Automation for all (NoCode)
+1. [React Israel](https://www.react-israel.co.il) - React and React Native
+1. [Alon Abargel](https://alonabargel.com) - Articales from Full Stack course.
+1. [B.Cs Student](https://bscstudent.netlify.app) - Programming and Tech
+1. [Pinat Kafe](https://pinatkafe.com): פינת הקפה – חוויות של מנהל קטן בחברת הייטק גדולה
+1. [Anonymus Function](https://blog.hagarsh.com): Womens in Hitech
+1. [Algoritmim](https://algoritmim.co.il): Maya write algoritmim
