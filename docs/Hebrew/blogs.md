@@ -14,3 +14,4 @@ Blogs and sites on web developing in Hebrew. All the blogs are being updated fre
 1. [reshetech](https://reshetech.co.il/) - General web development in Hebrew.
 1. [ai-blog](https://ai-blog.co.il/) - Artificial Intelligence Blog
 1. [GoCode](https://gocode.co.il) - Web development learning app in Hebrew, including slides and exercises.
+1. [React Israel](https://www.react-israel.co.il/) - React, React Native and JS in Hebrew
